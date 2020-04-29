@@ -1,4 +1,6 @@
 # Quizzes
 A simple math quiz made in python is so far all we have, sorry!
-This was meant for either fun or online teaching for about 1st grade.
+This was meant for either fun or online teaching. grade.
 I hope you can use this.
+Also, I will tell the "Intended audience" of each quiz.
+Math Quiz 1: 1st grade
